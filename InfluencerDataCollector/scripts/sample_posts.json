@@ -1,0 +1,72 @@
+{
+  "posts": [
+    {
+      "platform": "X",
+      "accountName": "AI太郎",
+      "accountId": "@ai_taro",
+      "postedAt": "2024-01-15 10:30:00",
+      "content": "Claude 3がリリースされました！特にOpusモデルの性能が素晴らしく、コーディング能力が大幅に向上しています。#生成AI #Claude #Anthropic",
+      "likes": 1520,
+      "reposts": 320,
+      "comments": 85,
+      "views": 50000,
+      "postUrl": "https://x.com/ai_taro/status/123456789",
+      "mediaUrls": [],
+      "hashtags": ["生成AI", "Claude", "Anthropic"],
+      "mentions": [],
+      "category": "ニュース",
+      "memo": ""
+    },
+    {
+      "platform": "X",
+      "accountName": "生成AI研究所",
+      "accountId": "@genai_lab",
+      "postedAt": "2024-01-14 18:00:00",
+      "content": "【スレッド】ChatGPTとClaudeの比較検証を行いました。\n\n1/10 今回は以下の観点で比較します：\n- 日本語能力\n- コーディング\n- 創造性\n- 正確性",
+      "likes": 890,
+      "reposts": 210,
+      "comments": 45,
+      "views": 32000,
+      "postUrl": "https://x.com/genai_lab/status/123456788",
+      "mediaUrls": ["https://example.com/image1.png"],
+      "hashtags": ["ChatGPT", "Claude", "AI比較"],
+      "mentions": [],
+      "category": "解説",
+      "memo": "スレッド形式の投稿"
+    },
+    {
+      "platform": "YouTube",
+      "accountName": "AI解説チャンネル",
+      "accountId": "@ai_kaisetsu",
+      "postedAt": "2024-01-13 20:00:00",
+      "content": "【完全解説】Stable Diffusion 3.0の使い方｜初心者でも分かるAI画像生成入門",
+      "likes": 2500,
+      "reposts": 0,
+      "comments": 180,
+      "views": 85000,
+      "postUrl": "https://youtube.com/watch?v=abcdef123",
+      "mediaUrls": [],
+      "hashtags": ["StableDiffusion", "AI画像生成", "チュートリアル"],
+      "mentions": [],
+      "category": "チュートリアル",
+      "memo": "動画コンテンツ"
+    },
+    {
+      "platform": "note",
+      "accountName": "AI事業開発者",
+      "accountId": "ai_business",
+      "postedAt": "2024-01-12 12:00:00",
+      "content": "生成AIを活用した新規事業の立ち上げ方｜実践ガイド\n\n私が実際に生成AIを使って新規事業を立ち上げた経験から、成功のポイントと失敗から学んだことをまとめました。",
+      "likes": 450,
+      "reposts": 120,
+      "comments": 35,
+      "views": 12000,
+      "postUrl": "https://note.com/ai_business/n/n123456789",
+      "mediaUrls": [],
+      "hashtags": ["生成AI", "新規事業", "スタートアップ"],
+      "mentions": [],
+      "category": "意見/考察",
+      "memo": "長文記事"
+    }
+  ]
+}
